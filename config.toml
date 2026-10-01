@@ -1,0 +1,6 @@
+rho = 1.225
+wing_area = 4.2
+cl = 0.8
+velocity_min = 10
+velocity_max = 50
+velocity_points = 100
